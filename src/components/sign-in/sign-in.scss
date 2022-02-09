@@ -1,0 +1,21 @@
+.sign-in {
+    width: 380px;
+    display: flex;
+    flex-direction: column;
+
+    .title {
+        margin: 10px 0;
+    }
+
+    .buttons {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        .logo-google {
+            margin: auto 0;
+        }
+    }
+}
+
+//TODO Make the buttons in column direction
